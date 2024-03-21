@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run bash script
-        run: bash path/to/your/script.sh
+        run: bash ttest.sh
